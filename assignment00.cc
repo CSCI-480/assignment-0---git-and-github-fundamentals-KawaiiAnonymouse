@@ -1,4 +1,4 @@
-/* 	Your Name
+/* 	Grace Lattanzio
 	z1887402
 	CSCI480 - Section 0PE1
 	
@@ -6,4 +6,4 @@
 	of the starter code provided for the assignment.
 */
 
-cut << "Data Structures are Important!!" << endl;   // Yes, I know there is a typo!!!
+cout << "Data Structures are Important!!" << endl;   // Yes, I know there is a typo!!!
